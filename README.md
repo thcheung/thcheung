@@ -20,7 +20,7 @@ My research interests include **multimedia signal processing**, **social network
 
 - **[FactLLaMA](https://github.com/thcheung/FactLLaMA)** — Optimizing instruction-following LLMs with external knowledge for automated fact-checking
 - **[CDGTN](https://github.com/thcheung/CDGTN)** — Causal Diffused Graph-Transformer Network for early stream classification of rumours
-- **[CBAN](https://github.com/thcheung/CBAN)** — Crossmodal bipolar attention for multimodal classification on social media
+- **[CBAN](https://github.com/thcheung/CBAN)** — Crossmodal Bipolar Attention for multimodal classification on social media
 
 ---
 
