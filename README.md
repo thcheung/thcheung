@@ -18,7 +18,7 @@ My research interests include **multimedia signal processing**, **social network
 
 ## 📄 Selected Publications
 
-- **[FactLLaMA](https://github.com/thcheung/FactLLaMA)** — Optimizing instruction-following LLMs with external knowledge for automated fact-checking · [ArXiv](https://arxiv.org/abs/2309.00240)
+- **[FactLLaMA](https://github.com/thcheung/FactLLaMA)** — Optimizing instruction-following LLMs with external knowledge for automated fact-checking
 - **[CDGTN](https://github.com/thcheung/CDGTN)** — Causal Diffused Graph-Transformer Network for early stream classification of rumours
 - **[AARD](https://github.com/thcheung/AARD)** — Author-aware rumour detection with layer-wise parameter-efficient tuning
 - **[UMGTN](https://github.com/thcheung/UMGTN)** — Unified multimodal graph transformer for rumour detection with missing features
