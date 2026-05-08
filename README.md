@@ -2,7 +2,7 @@
 
 I'm a **Research Scientist at TCL AI Lab**, Hong Kong. I received my PhD in Electrical and Electronic Engineering from **The Hong Kong Polytechnic University** in 2024.
 
-My research interests span **machine learning**, **natural language processing**, and **large language models**, with a focus on misinformation detection, multimodal understanding, and LLM alignment.
+My research interests include **multimedia signal processing**, **social network analysis**, and **large language models**.
 
 ---
 
@@ -10,8 +10,8 @@ My research interests span **machine learning**, **natural language processing**
 
 | Area | Topics |
 |---|---|
-| Misinformation & Fact-Checking | Rumour detection, veracity assessment, social media analytics |
-| Multimodal Learning | Image-text fusion, cross-modal attention |
+| Multimedia Signal Processing | Multimodal classification, image-text fusion, cross-modal attention |
+| Social Network Analysis | Rumour detection, veracity assessment, misinformation on social media |
 | Large Language Models | Instruction tuning, RLHF, reasoning |
 
 ---
