@@ -20,9 +20,6 @@ My research interests include **multimedia signal processing**, **social network
 
 - **[FactLLaMA](https://github.com/thcheung/FactLLaMA)** — Optimizing instruction-following LLMs with external knowledge for automated fact-checking
 - **[CDGTN](https://github.com/thcheung/CDGTN)** — Causal Diffused Graph-Transformer Network for early stream classification of rumours
-- **[AARD](https://github.com/thcheung/AARD)** — Author-aware rumour detection with layer-wise parameter-efficient tuning
-- **[UMGTN](https://github.com/thcheung/UMGTN)** — Unified multimodal graph transformer for rumour detection with missing features
-- **[DSCAN](https://github.com/thcheung/DSCAN)** — Dual-stream cross-attention network for claim veracity assessment
 - **[CBAN](https://github.com/thcheung/CBAN)** — Crossmodal bipolar attention for multimodal classification on social media
 
 ---
