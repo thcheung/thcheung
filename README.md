@@ -36,4 +36,3 @@ My research interests include **multimedia signal processing**, **social network
 
 - 🌐 [thcheung.github.io](https://thcheung.github.io)
 - 📧 tsun-hin.cheung@connect.polyu.hk
-- 🐙 [github.com/thcheung](https://github.com/thcheung)
