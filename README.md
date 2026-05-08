@@ -18,9 +18,9 @@ My research interests include **multimedia signal processing**, **social network
 
 ## 📄 Selected Publications
 
-- **[FactLLaMA](https://github.com/thcheung/FactLLaMA)** — Optimizing instruction-following LLMs with external knowledge for automated fact-checking
-- **[CDGTN](https://github.com/thcheung/CDGTN)** — Causal Diffused Graph-Transformer Network for early stream classification of rumours
-- **[CBAN](https://github.com/thcheung/CBAN)** — Crossmodal Bipolar Attention for multimodal classification on social media
+- **[FactLLaMA](https://ieeexplore.ieee.org/abstract/document/10317251)** — Optimizing instruction-following LLMs with external knowledge for automated fact-checking
+- **[CDGTN](https://www.sciencedirect.com/science/article/abs/pii/S0950705123005579)** — Causal Diffused Graph-Transformer Network for early stream classification of rumours
+- **[CBAN](https://www.sciencedirect.com/science/article/abs/pii/S092523122201236X)** — Crossmodal Bipolar Attention for multimodal classification on social media
 
 ---
 
