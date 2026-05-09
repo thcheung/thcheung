@@ -13,7 +13,7 @@ My research interests include **multimedia signal processing**, **social network
 | Multimedia Signal Processing | Multimodal classification, image-text fusion, cross-modal attention |
 | Social Network Analysis | Rumour detection, veracity assessment, misinformation on social media |
 | Industrial Artificial Intelligence | Anomaly detection, predictive maintenance, materials discovery |
-| Large Language Models | Instruction tuning, reinforcement learning, alignment |
+| Large Language Models | Supervised fine-tuning, reinforcement learning, alignment |
 
 ---
 
