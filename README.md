@@ -2,7 +2,7 @@
 
 I'm a **Research Scientist at TCL AI Lab**, Hong Kong. I received my PhD in Electrical and Electronic Engineering from **The Hong Kong Polytechnic University** in 2024.
 
-My research interests include **multimedia signal processing**, **social network analysis**, **industrial artificial intelligence**, and **large language models**.
+My research interests include **multimedia signal processing**, **social network analysis**, and **industrial artificial intelligence**.
 
 ---
 
@@ -13,7 +13,6 @@ My research interests include **multimedia signal processing**, **social network
 | Multimedia Signal Processing | Multimodal classification, image-text fusion, cross-modal attention |
 | Social Network Analysis | Rumour detection, veracity assessment, misinformation on social media |
 | Industrial Artificial Intelligence | Anomaly detection, predictive maintenance, materials discovery |
-| Large Language Models | Supervised fine-tuning, reinforcement learning, alignment |
 
 ---
 
